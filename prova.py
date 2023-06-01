@@ -10,3 +10,20 @@ print('a+b =',a+b)
 print ('a*b =',a*b)
 
 #prima modifica
+
+#%%
+print("due")
+print("deine")
+# %%
+
+print("matteo")
+print("mutter")
+
+# %%
+print("Weeeeeelllaaaa")
+
+# %%
+
+nome = "matteo"
+print("nome")
+
